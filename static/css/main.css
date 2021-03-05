@@ -1,0 +1,8 @@
+body {
+    font-family: Helvetica;
+    color:darkslateblue
+}
+
+table, th, td {
+    border: 1px solid black;
+}
